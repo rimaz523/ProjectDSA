@@ -1,1 +1,8 @@
-gfhgh
+DSA project. 
+National Institute of Business Management
+Computer Science Batch 3
+
+SHAHABDEEN MUHAMMED SHARFAN - BSC-UCD-CSS-B03-147 (13208278)
+R.B.M RIMAZ                 - BSC-UCD-CSS-B03-132 (13208387)
+SENAL DULAJ KUMARAGE        - BSC-UCD-CSS-B03-149  (13208346)
+PUNU JITHMAL HEWAGAMAGE     - BSC-UCD-CSS-B03-123  (13208338)
